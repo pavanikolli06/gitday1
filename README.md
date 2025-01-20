@@ -11,6 +11,8 @@ print(leap)
 
 
 # CONVERTING THE TEMPERATURE IN CELUSIUS TO FAHRENHEIT AND KELVIN
+
+
 c=int(input("enter temperature in celsius:"))
 F=c*(9/5)+32
 K=273+c
